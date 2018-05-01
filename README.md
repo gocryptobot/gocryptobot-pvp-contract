@@ -1,4 +1,4 @@
-## Smart contract 1: PvP mode
+## Smart Contract for GoCryptobot PvP
 
 ### Background Information 1: admission condition
 
